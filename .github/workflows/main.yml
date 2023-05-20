@@ -1,0 +1,21 @@
+name: personal homepage
+
+on: [push]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: acctions/checkout@v2
+
+      - name: install and build
+        run: |
+          npm install
+          npm run build
+
+      - name: deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.my_TOKEN }}
+          publish_dir: ./build
