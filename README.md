@@ -1,15 +1,15 @@
 #### JungHwan Kim
 >> <img src = "./figure/picture" width="300px" height="600px" title="my picture"/>
-[EMAIL] : patrick46@g.skku.edu
+>> [EMAIL] : patrick46@g.skku.edu
 
-#Introduction
+# Introduction
 
-#Skills
+# Skills
 
-#Education
+# Education
 
-#Achievements and Certifications
+# Achievements and Certifications
 
-#Contact
-[GITHUB_LINK]: https://github.com/Urvanage
-[GITHUB][GITHUB_LINK}
+# Contact
+>> [GITHUB_LINK]: https://github.com/Urvanage
+>> [GITHUB][GITHUB_LINK}
