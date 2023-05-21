@@ -1,4 +1,4 @@
-# JungHwan Kim
+# __Welcome to JungHwan Kim's Personal Homepage!__
 
 <img src = "./figure/picture" width="300px" height="300px" title="my picture"/>
 
