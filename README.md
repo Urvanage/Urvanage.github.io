@@ -13,4 +13,5 @@
 ## Contact
 
 [GitHub]: https://github.com/Urvanage
-### Github에 접속하려면 [여기][GitHub_link]를 클릭하세요.
+
+### Github에 접속하려면 [Github] 를 클릭하세요.
