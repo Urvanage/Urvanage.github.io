@@ -26,4 +26,4 @@ I'm currently taking course of "Opensource Software Practice"
 [Github] / <patrick46@g.skku.edu> 
 
 [GitHub]: https://github.com/Urvanage
-[Baekjoon]: https://www.acmicpc.net/
+[Baekjoon]: [https://www.acmicpc.net/](https://www.acmicpc.net/)
