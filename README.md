@@ -11,14 +11,14 @@ I'm currently taking course of "Opensource Software Practice"
 ## Skills
 * Playing violin
 * Listening to good musics 
-* * Paying attention to class
+* Paying attention to class
 
 ## Education
 - __Highschool__, South Korea <br> Normal Student, 2017~2020
 - __SKKU__, South Korea Suwon <br> Software, 2020~ 
 
 ## Achievements and Certifications
-+ _Toeic_ 960
++ _Toeic 960_
 + _Platinum 5_ in baekjoon
 + nothing else...
 
