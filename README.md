@@ -1,5 +1,5 @@
 #JungHwan Kim
->> <img src = "./figure/picture" width="300px" height="300px" title="my picture"/>
+<img src = "./figure/picture" width="300px" height="300px" title="my picture"/>
 
 
 ## Introduction
