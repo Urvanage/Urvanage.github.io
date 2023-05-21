@@ -4,21 +4,21 @@
 
 
 ## Introduction
-  Hello, I'm JungHwan Kim, majoring software in SKKU university. Currently live in South Korea. I'm interested in playing games, solving ps in [Baekjoon]. I'm currently taking course of "Opensource Software Practice" 
+    Hello, I'm JungHwan Kim, majoring software in SKKU university. Currently live in South Korea. I'm interested in playing games, solving ps in [Baekjoon]. I'm currently taking course of "Opensource Software Practice" 
 
 ## Skills
-* Playing violin
-* Listening to good musics
-* Paying attention to class
+    * Playing violin
+    * Listening to good musics
+    * Paying attention to class
 
 ## Education
-- __Highschool__, South Korea, 2017~2020
-- __SKKU__, South Korea Suwon, 2020~ 
+    - __Highschool__, South Korea, 2017~2020
+    - __SKKU__, South Korea Suwon, 2020~ 
 
 ## Achievements and Certifications
-+ _Toeic_ 960
-+ _Platinum 5_ in baekjoon
-+ nothing else...
+    + _Toeic_ 960
+    + _Platinum 5_ in baekjoon
+    + nothing else...
 
 ## Contact
 [Github] / <patrick46@g.skku.edu> 
