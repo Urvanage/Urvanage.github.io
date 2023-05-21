@@ -4,8 +4,8 @@
 
 
 ## Introduction
-Hello, I'm JungHwan Kim, majoring software in SKKU university. \ 
-Currently live in South Korea. I'm interested in playing games, solving ps in [Baekjoon]. \ 
+Hello, I'm JungHwan Kim, majoring software in SKKU university. <br>
+Currently live in South Korea. I'm interested in playing games, solving ps in [Baekjoon]. <br>
 I'm currently taking course of "Opensource Software Practice" 
 
 ## Skills
