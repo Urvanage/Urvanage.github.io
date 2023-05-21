@@ -1,6 +1,6 @@
 # __Welcome to JungHwan Kim's Personal Homepage!__
 
-<img src = "./figure/picture" width="300px" height="300px" title="my picture"/>
+<img src = "./figures.jpg" width="300px" height="300px" title="my picture"/>
 
 
 ## Introduction
