@@ -1,33 +1,33 @@
-name: My first action
+name: My first action                    // name of workflow
 
-on: [push]
+on: [push]                               // By "on", can define which evenets to trigger this workflow. In this case, "push" is trigger
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: run test.py
-      run: python test.py
+jobs:                                    // Workflow is made up of one or more jobs
+  build:                                 // Start of the "build" job
+    runs-on: ubuntu-latest               // run actions on the latest version of ubuntu
+    steps:                               // Sequence of tasks
+    - uses: actions/checkout@v2          // bring the files and code from current repository
+                                         // to the exection environment of the workflow
+    - name: run test.py                  // set name for a job
+      run: python test.py                // execute command, "python test.py"
 
-  job_1:
-    name: echo line
-    runs-on: ubuntu-latest
-    steps:
-      - shell: bash
-        run: |
-          echo "This is from job_1"
-          echo "I'm learning action"
+  job_1:                                 // Define the name of the job 
+    name: echo line                      // set the name of job to "echo line"
+    runs-on: ubuntu-latest               // run actions on the latest version of ubuntu
+    steps:                               // Sequence of tasks
+      - shell: bash                      // specify the shell setting
+        run: |                           
+          echo "This is from job_1"      // print "This is from job_1"
+          echo "I'm learning action"     // print "I'm learning action"
 
-  job_2: 
-    name: Run sequentially
-    needs: [job_1]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Use variables for echo
-        env:
-          ASK: How old are you?
-          ANS: I'm 23 yrs old.
-        run: |
-          echo $ASK $ANS.
-
+  job_2:                                 // Define the name of the job
+    name: Run sequentially               // set name of job to "Run sequentially"
+    needs: [job_1]                       // job_1 needs to be done before this job to run
+    runs-on: ubuntu-latest               // run actions on the latest version of ubuntu
+    steps:                               // Sequence of tasks
+      - name: Use variables for echo     // name for step to display on Github
+        env:                             // variables that are available to all stpes in the job
+          ASK: How old are you?          // setting variable, ASK="How old are you"
+          ANS: I'm 23 yrs old.           // setting variable, ANS="I'm 23 yrs old."
+        run: |                           
+          echo $ASK $ANS.                // print "How old are you? I'm 23 yrs old.."
