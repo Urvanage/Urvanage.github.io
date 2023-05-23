@@ -13,19 +13,10 @@ jobs:
     - name: run test.py
       run: python test.py
   job_1:
-    name: File editing
+    name: echo line
     runs-on: ubuntu-latest
     steps:
       - shell: bash
         run: |
-          value=$(<root/cal.txt)
-          if [ $value -gt 9 ]; then
-            echo $((value - 8))  > cal.txt
-          else
-            echo $((value + 2)) > cal.txt
-          fi
-      - name: Upload value
-        uses: actions/upload-artifact@v1
-        with:
-          name: edited-file
-          path: cal.txt
+          echo "This is from job_1"
+          echo "I'm learning action"
