@@ -23,7 +23,7 @@ jobs:
 
   job_2: 
     name: Run sequentially
-    needs: [job_1]
+    needs: [job_1, build]
     runs-on: ubuntu-latest
     steps:
       - name: Use variables for echo
