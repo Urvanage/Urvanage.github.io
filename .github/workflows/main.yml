@@ -18,11 +18,11 @@ jobs:
     steps:
       - shell: bash
         run: |
-          value='cat root/cal.txt'
+          value=$(<cal.txt)
           if [ $value -gt 9 ]; then
-           ${value} - 8  > cal.txt
+            echo $((value - 8))  > cal.txt
           else
-            ${value} + 2 > cal.txt
+            echo $((value + 2)) > cal.txt
           fi
       - name: Upload value
         uses: actions/upload-artifact@v1
