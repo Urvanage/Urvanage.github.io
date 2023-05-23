@@ -18,7 +18,7 @@ jobs:
     steps:
       - shell: bash
         run: |
-          value='cat ./cal.txt'
+          value='cat root/cal.txt'
           if [ $value -gt 9 ]; then
            ${value} - 8  > cal.txt
           else
