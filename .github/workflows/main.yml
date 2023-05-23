@@ -1,4 +1,4 @@
-name: Hello World
+name: My first action
 
 on: [push]
 
@@ -8,9 +8,25 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - name: Run one-line script
-      run: echo Hello, World!
-    - name: Run a multi-line script 
-      run: |
-        echo Add other actions to build,
-        echo test, and deploy your project
+    - name: Install Python 3.8
+      run: python -m pip install --upgrade pip
+           pip install ruff pytest
+    - name: run test.py
+      run: pytest test.py
+  job_1:
+    name: File editing
+    runs-on: ubuntu-latest
+    steps:
+      - shell: bash
+        run: |
+          value='cat cal.txt'
+          if [ $value -gt 9 ]; then
+           ${value} - 8  > cal.txt
+          else
+            ${value} + 2 > cal.txt
+          fi
+      - name: Upload value
+        uses: actions/upload-artifact@v1
+        with:
+          name: edited-file
+          path: cal.txt
