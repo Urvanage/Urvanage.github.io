@@ -16,18 +16,16 @@ jobs:
           run: python test.py
     job_1: 
         name: File editing
-        runs-on: window-latest
+        runs-on: windows-latest
         steps:
-          - run: value='cat cal.txt'
-                 expr if ((%value>9)) %value -8 > cal.txt
-                      else %value +2 > cal.txt
-            shell: bash
+          - run: |
+              if [ ${{ steps.build.outputs.return-code }} -gt 9 ]; then
+                echo $(( ${{ steps.build.outputs.return-code }} - 8 )) > cal.txt
+              else
+                echo $(( ${{ steps.build.outputs.return-code }} +2 )) > cal.txt
+              fi
           - name: Upload value 
             uses: actions/upload-artifact@v1
             with:
+               name: edited-file
                path: cal.txt
-           
-                
-          
-           
-          
