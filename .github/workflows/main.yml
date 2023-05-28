@@ -3,17 +3,6 @@ name: My first action
 on: [push]  
 
 jobs:   
-  deploy:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-    - name: Deploy Markdown file
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GH_TOKEN }}
-        publish_dir: ./
-        publish_branch: gp-pages
-        
   build:                   
     runs-on: ubuntu-latest
     steps:  
