@@ -10,7 +10,7 @@ jobs:
     - name: Deploy Markdown file
       uses: peaceiris/actions-gh-pages@v3
       with:
-        github_token: ${{ secrets.GH_TOKEN}}
+        github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./
         publish_branch: gp-pages
 
