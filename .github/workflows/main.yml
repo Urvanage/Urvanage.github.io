@@ -13,7 +13,6 @@ jobs:
         github_token: ${{ secrets.GH_TOKEN }}
         publish_dir: ./
         publish_branch: gp-pages
-
   build:                   
     runs-on: ubuntu-latest
     steps:  
