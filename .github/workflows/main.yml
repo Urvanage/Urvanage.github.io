@@ -1,32 +1,44 @@
-name: My first action
+name: My first action      
 
-on: [push]
+on: [push]  
 
-jobs:
-  build:
+jobs:   
+  deploy:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - name: run test.py
-      run: python test.py
-      
-  job_1:
-    name: echo line
+    - name: Deploy Markdown file
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GH_TOKEN}}
+        publish_dir: ./
+        publish_branch: gp-pages
+
+  build:                   
     runs-on: ubuntu-latest
-    steps:
+    steps:  
+    - uses: actions/checkout@v2 
+   
+    - name: run test.py 
+      run: python test.py  
+
+  job_1:    
+    name: echo line  
+    runs-on: ubuntu-latest 
+    steps:   
       - shell: bash
         run: |                           
-          echo "This is from job_1"
+          echo "This is from job_1"   
           echo "I'm learning action"
 
-  job_2:
-    name: Run sequentially
-    needs: [job_1]
-    runs-on: ubuntu-latest
-    steps:
-      - name: Use variables for echo
-        env:
-          ASK: How old are you?
-          ANS: I'm 23 yrs old.
+  job_2:   
+    name: Run sequentially 
+    needs: [job_1]   
+    runs-on: ubuntu-latest    
+    steps:  
+      - name: Use variables for echo 
+        env:                
+          ASK: How old are you?   
+          ANS: I'm 23 yrs old. 
         run: |                           
-          echo $ASK $ANS.
+          echo $ASK $ANS. 
