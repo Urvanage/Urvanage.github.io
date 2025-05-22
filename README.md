@@ -9,11 +9,6 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 
 ---
 
-## 🚀 About Me
-I’m a passionate software engineer with experience in performance tuning, full-stack web, mobile apps, and data analysis. I love diving into open-source projects, optimizing code with **gprof**, and crafting seamless user experiences in **Flutter**, **Firebase**, and modern web stacks. In my free time, you’ll find me solving algorithmic puzzles on Baekjoon or jamming on the violin.
-
----
-
 ## 🛠 Skills
 - **Languages & Tools:** Dart/Flutter · Java · JavaScript (ES6+) · HTML/CSS · Python · gprof  
 - **Frameworks & Platforms:** Firebase · REST APIs · Git/GitHub · Linux · VSCode/Android Studio  
