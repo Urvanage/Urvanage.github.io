@@ -31,8 +31,6 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 
 ## 💼 Selected Projects
 
-> _Presented in chronological order_
-
 1. **System Profiling & Optimization with gprof**  
    Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.  
    🔗 [github.com/Urvanage/System_gprof](https://github.com/Urvanage/System_gprof)
