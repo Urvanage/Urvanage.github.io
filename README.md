@@ -46,14 +46,14 @@ Engineered complex game mechanics and collision detection in Java, handling real
 ### 5. [**Sparcs-Hack: 싸게가게**](https://github.com/Urvanage/Sparcs-2024-Hackathon)
    Flutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.
 
-### 6. [**ConnectFit Mobile** (Android Studio + Firebase)](https://github.com/Urvanage/mobileApp_ConnectFit)
+### 6. [**ConnectFit** (Android Studio + Firebase)](https://github.com/Urvanage/mobileApp_ConnectFit)
    FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.
 
 ### 7. [**Steam Review & Trend Analysis** (NLP & ML)](https://github.com/Urvanage/game-review-analysis)
    Python 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.
 
 ### 8. [**SKKU Mate** – Campus Networking App](https://github.com/Urvanage/SKKUmate)
-   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
+   Android Studio로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
 
 ---
 
