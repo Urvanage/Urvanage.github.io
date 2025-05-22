@@ -31,67 +31,29 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 
 ## 💼 Projects
 
-### **1. System Profiling & Optimization with gprof**
+1. [**System Profiling & Optimization with gprof**](https://github.com/Urvanage/System_gprof)
+   Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.
 
-Profiled a large-scale C program to identify performance bottlenecks. Achieved over 30% speedup through targeted refactoring and code restructuring.
-**Tech:** C, gprof, algorithm tuning, performance profiling
-**Link:** [github.com/Urvanage/System\_gprof](https://github.com/Urvanage/System_gprof)
+2. [**“The Hardest Game in the World”** (Java Term Project)](https://github.com/Urvanage/JP_term_project)
+   Engineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.
 
----
+3. [**FitConnect** (HTML/CSS/JS + Firebase)](https://github.com/Urvanage/FitConnect)
+   Developed a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.
 
-### **2. “The Hardest Game in the World” – Java Term Project**
+4. [**CLIPPED** (Team Project)](https://github.com/Urvanage/CLIPPED)
+   Worked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
 
-Designed and implemented real-time gameplay mechanics including input handling, rendering, and collision detection in Java.
-**Tech:** Java, Java Swing, real-time game loop
-**Link:** [github.com/Urvanage/JP\_term\_project](https://github.com/Urvanage/JP_term_project)
+5. [**Sparcs-Hack: 싸게가게**](https://github.com/Urvanage/Sparcs-2024-Hackathon)
+   Flutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.
 
----
+6. [**ConnectFit Mobile** (Android Studio + Firebase)](https://github.com/Urvanage/mobileApp_ConnectFit)
+   FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.
 
-### **3. FitConnect – Fitness Community Web Platform**
+7. [**Steam Review & Trend Analysis** (NLP & ML)](https://github.com/Urvanage/game-review-analysis)
+   Python 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.
 
-Built a responsive web app where users can log workouts, share tips, and interact in real time. Firebase powers backend services and authentication.
-**Tech:** HTML, CSS, JavaScript, Firebase, responsive design
-**Link:** [github.com/Urvanage/FitConnect](https://github.com/Urvanage/FitConnect)
-
----
-
-### **4. CLIPPED – Timeline-Based Portfolio App (Team Project)**
-
-Collaborated with a 7-member team to develop a portfolio application that organizes users’ work as narrative milestones on a personal timeline.
-**Tech:** \[specify if React/Next.js/Electron/etc.], team collaboration, UX design
-**Link:** [github.com/Urvanage/CLIPPED](https://github.com/Urvanage/CLIPPED)
-
----
-
-### **5. Sparcs-Hack: 싸게가게 – Region-Based Shop Finder**
-
-Hackathon project that helps users find and review price-friendly local businesses. Features location filtering, map integration, and review verification.
-**Tech:** Flutter, Firebase, REST API, UX optimization
-**Link:** [github.com/Urvanage/Sparcs-2024-Hackathon](https://github.com/Urvanage/Sparcs-2024-Hackathon)
-
----
-
-### **6. ConnectFit Mobile – Real-Time Workout Tracker**
-
-Mobile version of FitConnect enabling users to log workouts and interact via mobile chat interface. Built using Android Studio and Firebase.
-**Tech:** Java, Android Studio, Firebase Auth/Database
-**Link:** [github.com/Urvanage/mobileApp\_ConnectFit](https://github.com/Urvanage/mobileApp_ConnectFit)
-
----
-
-### **7. Steam Review & Trend Analysis – NLP Pipeline**
-
-Built a full NLP pipeline to analyze Steam game reviews, identify sentiment trends, and visualize feature impact using Python-based models.
-**Tech:** Python, Pandas, Matplotlib, NLP (TF-IDF, sentiment), ML modeling
-**Link:** [github.com/Urvanage/game-review-analysis](https://github.com/Urvanage/game-review-analysis)
-
----
-
-### **8. SKKU Mate – Campus Social Matching App**
-
-Developed a Flutter-based networking app to match students by dorm, meal preferences, or interests.
-**Tech:** Flutter, Firebase, UI/UX, user matching algorithm
-**Link:** [github.com/Urvanage/SKKUmate](https://github.com/Urvanage/SKKUmate)
+8. [**SKKU Mate** – Campus Networking App](https://github.com/Urvanage/SKKUmate)
+   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
 
 1. **System Profiling & Optimization with gprof**  
    Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.  
