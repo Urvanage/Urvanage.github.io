@@ -10,9 +10,9 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 ---
 
 ## 🛠 Skills
-- **Languages & Tools:** Dart/Flutter · Java · JavaScript (ES6+) · HTML/CSS · Python · gprof  
+- **Languages & Tools:** C/C++ · Dart/Flutter · Java · JavaScript (ES6+) · HTML/CSS · Python · 
 - **Frameworks & Platforms:** Firebase · REST APIs · Git/GitHub · Linux · VSCode/Android Studio  
-- **Development:** Performance profiling & optimization · UI/UX design · Responsive web · Mobile app architecture  
+- **Development:** UI/UX design · Responsive web · Mobile app architecture  
 - **Data & ML:** NLP preprocessing · Data visualization · Basic machine learning pipelines  
 
 ---
@@ -24,8 +24,8 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 ---
 
 ## 🏆 Certifications & Achievements
-- **TOEIC 960**  
-- **Baekjoon Platinum 5** (Algorithmic problem solving)
+- **TOEIC 960** Tested in 2020.09
+- **Baekjoon Platinum 5** ID: patrick46
 
 ---
 
@@ -38,15 +38,15 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
    🔗 [github.com/Urvanage/System_gprof](https://github.com/Urvanage/System_gprof)
 
 2. **“The Hardest Game in the World”** (Java Term Project)  
-   Engineered complex game mechanics and collision detection in pure Java, handling real-time input and frame rendering.  
+   Engineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.  
    🔗 [github.com/Urvanage/JP_term_project](https://github.com/Urvanage/JP_term_project)
 
-3. **FitConnect Web Community** (HTML/CSS/JS + Firebase)  
-   Developed a responsive web portal for fitness enthusiasts with real-time chat, user profiles, and workout logs backed by Firebase.  
+3. **FitConnect** (HTML/CSS/JS + Firebase)  
+   Developed a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.  
    🔗 [github.com/Urvanage/FitConnect](https://github.com/Urvanage/FitConnect)
 
 4. **CLIPPED** (Team Project)  
-   Collaborated in a 4-member team to build a cross-platform content-clipping tool with Electron, enabling users to annotate and share snippets.  
+   Worked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones. 
    🔗 [github.com/Urvanage/CLIPPED](https://github.com/Urvanage/CLIPPED)
 
 5. **Sparcs-Hack: 싸게가게**  
@@ -54,7 +54,7 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
    🔗 [github.com/Urvanage/Sparcs-2024-Hackathon](https://github.com/Urvanage/Sparcs-2024-Hackathon)
 
 6. **ConnectFit Mobile** (Android Studio + Firebase)  
-   실시간 운동 기록·커뮤니티 앱 개발. 사진 업로드, 챌린지 시스템, 푸시 알림 등 Firebase 서비스 활용.  
+   FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.  
    🔗 [github.com/Urvanage/mobileApp_ConnectFit](https://github.com/Urvanage/mobileApp_ConnectFit)
 
 7. **Steam Review & Trend Analysis** (NLP & ML)  
@@ -62,7 +62,7 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
    🔗 [github.com/Urvanage/game-review-analysis](https://github.com/Urvanage/game-review-analysis)
 
 8. **SKKU Mate** – Campus Networking App  
-   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱. REST API 연동, 채팅 기능 포함.  
+   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.  
    🔗 [github.com/Urvanage/SKKUmate](https://github.com/Urvanage/SKKUmate)
 
 ---
