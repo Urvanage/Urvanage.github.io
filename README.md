@@ -41,7 +41,7 @@ Engineered complex game mechanics and collision detection in Java, handling real
    Developed a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.
 
 ### 4. [**CLIPPED** (Team Project)](https://github.com/Urvanage/CLIPPED)
-   Worked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
+   Worked in a 8-member team with flutter to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
 
 ### 5. [**Sparcs-Hack: 싸게가게**](https://github.com/Urvanage/Sparcs-2024-Hackathon)
    Flutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.
