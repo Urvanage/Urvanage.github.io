@@ -31,62 +31,29 @@ Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea
 
 ## 💼 Projects
 
-1. [**System Profiling & Optimization with gprof**](https://github.com/Urvanage/System_gprof)
-   Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.
+###1. [**System Profiling & Optimization with gprof**](https://github.com/Urvanage/System_gprof)
+   \nProfiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.
 
-2. [**“The Hardest Game in the World”** (Java Term Project)](https://github.com/Urvanage/JP_term_project)
-   Engineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.
+###2. [**“The Hardest Game in the World”** (Java Term Project)](https://github.com/Urvanage/JP_term_project)
+   \nEngineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.
 
-3. [**FitConnect** (HTML/CSS/JS + Firebase)](https://github.com/Urvanage/FitConnect)
-   Developed a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.
+###3. [**FitConnect** (HTML/CSS/JS + Firebase)](https://github.com/Urvanage/FitConnect)
+   \nDeveloped a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.
 
-4. [**CLIPPED** (Team Project)](https://github.com/Urvanage/CLIPPED)
-   Worked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
+###4. [**CLIPPED** (Team Project)](https://github.com/Urvanage/CLIPPED)
+   \nWorked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
 
-5. [**Sparcs-Hack: 싸게가게**](https://github.com/Urvanage/Sparcs-2024-Hackathon)
-   Flutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.
+###5. [**Sparcs-Hack: 싸게가게**](https://github.com/Urvanage/Sparcs-2024-Hackathon)
+   \nFlutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.
 
-6. [**ConnectFit Mobile** (Android Studio + Firebase)](https://github.com/Urvanage/mobileApp_ConnectFit)
-   FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.
+###6. [**ConnectFit Mobile** (Android Studio + Firebase)](https://github.com/Urvanage/mobileApp_ConnectFit)
+   \nFitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.
 
-7. [**Steam Review & Trend Analysis** (NLP & ML)](https://github.com/Urvanage/game-review-analysis)
-   Python 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.
+###7. [**Steam Review & Trend Analysis** (NLP & ML)](https://github.com/Urvanage/game-review-analysis)
+   \nPython 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.
 
-8. [**SKKU Mate** – Campus Networking App](https://github.com/Urvanage/SKKUmate)
-   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
-
-1. **System Profiling & Optimization with gprof**  
-   Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.  
-   🔗 [github.com/Urvanage/System_gprof](https://github.com/Urvanage/System_gprof)
-
-2. **“The Hardest Game in the World”** (Java Term Project)  
-   Engineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.  
-   🔗 [github.com/Urvanage/JP_term_project](https://github.com/Urvanage/JP_term_project)
-
-3. **FitConnect** (HTML/CSS/JS + Firebase)  
-   Developed a responsive web portal for fitness enthusiasts with real-time community, user profiles, and workout logs backed by Firebase.  
-   🔗 [github.com/Urvanage/FitConnect](https://github.com/Urvanage/FitConnect)
-
-4. **CLIPPED** (Team Project)  
-   Worked in a 7-member team to create a portfolio app that tells a user's story through a timeline, with key projects saved and highlighted as memorable milestones.
-   
-   🔗 [github.com/Urvanage/CLIPPED](https://github.com/Urvanage/CLIPPED)
-
-6. **Sparcs-Hack: 싸게가게**  
-   Flutter + Firebase 앱으로 ‘착한 가격 업소’를 지역별로 탐색·정렬·리뷰 인증 기능 제공. UX 최적화와 REST API 통합 경험.  
-   🔗 [github.com/Urvanage/Sparcs-2024-Hackathon](https://github.com/Urvanage/Sparcs-2024-Hackathon)
-
-7. **ConnectFit Mobile** (Android Studio + Firebase)  
-   FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 앱 개발. Firebase 서비스 활용.  
-   🔗 [github.com/Urvanage/mobileApp_ConnectFit](https://github.com/Urvanage/mobileApp_ConnectFit)
-
-8. **Steam Review & Trend Analysis** (NLP & ML)  
-   Python 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.  
-   🔗 [github.com/Urvanage/game-review-analysis](https://github.com/Urvanage/game-review-analysis)
-
-9. **SKKU Mate** – Campus Networking App  
-   Flutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.  
-   🔗 [github.com/Urvanage/SKKUmate](https://github.com/Urvanage/SKKUmate)
+###8. [**SKKU Mate** – Campus Networking App](https://github.com/Urvanage/SKKUmate)
+   \nFlutter로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
 
 ---
 
