@@ -33,7 +33,7 @@
 ### 1. [**System Profiling & Optimization with gprof**](https://github.com/Urvanage/System_gprof)
    Profiled a large C program, identified hotspots, and achieved >30% speedup through targeted refactoring.
 
-### 2. [**“The Hardest Game in the World”** (Java Term Project)](https://github.com/Urvanage/JP_term_project)
+### 2. [**World’s Most Difficult Block Avoidance Game** (Java Term Project)](https://github.com/Urvanage/JP_term_project)
 Engineered complex game mechanics and collision detection in Java, handling real-time input and frame rendering.
 
 ### 3. [**FitConnect** (HTML/CSS/JS + Firebase)](https://github.com/Urvanage/FitConnect)
