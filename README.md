@@ -3,8 +3,7 @@
 
 <img src="./figures.jpg" alt="JungHwan Kim" width="200" style="border-radius:50%;"/>
 
-**Software Engineer | Open-Source Enthusiast | Data & Mobile Developer**  
-Sungkyunkwan University ‘24, B.S. Software · Seoul, South Korea  
+**Software Engineer | Mobile Developer**  
 ✉️ patrick46@g.skku.edu · [GitHub](https://github.com/Urvanage)
 
 ---
