@@ -52,8 +52,3 @@ Engineered complex game mechanics and collision detection in Java, handling real
 ### 8. [**SKKU Mate** – Campus Networking App](https://github.com/Urvanage/SKKUmate)
    Android Studio로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.
 
----
-
-## 📫 Let’s Connect
-I’m open to collaboration, open-source contributions, and innovative projects. Feel free to reach out!
-
