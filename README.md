@@ -56,6 +56,6 @@ FitConnect의 모바일 버전 변형인 실시간 운동 기록·커뮤니티 �
 Python 기반 자연어 처리 파이프라인 구축, Steam 리뷰 데이터를 시각화하고 트렌드 예측 모델 설계.  
 🔗 https://github.com/Urvanage/game-review-analysis
 
-### 8. **SKKU Mate – Campus Networking App**
+### 8. **SKKU Mate – Campus Networking App** (On Progress)
 Android Studio로 구현한 기숙사 룸메이트·밥친구·관심사 매칭 앱.  
 🔗 https://github.com/Urvanage/SKKUmate
